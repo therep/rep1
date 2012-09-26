@@ -12,7 +12,7 @@ else
 {
     $g_prev_url = $_POST['previous'];
 }
-
+//added comment
 if(isset($_POST['submitted']))
 {
     if (Login()) 
